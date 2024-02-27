@@ -1,0 +1,38 @@
+body
+{
+    background-color: rgb(26, 27, 22);
+    text-align: center;
+}
+h1 
+{
+    color: azure;
+}
+h3
+{
+    color: azure;
+}
+h5
+{
+    color: azure;
+}
+p
+{
+    color: brown;
+    word-spacing: 10px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+a
+{
+    color: blueviolet;
+    font-size: smaller;
+    border-style: solid;
+    border-color: brown;
+    border-radius: 20px;
+    padding: 5px;
+    border-width: 5px;
+}
+#Michel
+{
+    border-radius: 500px;
+}
